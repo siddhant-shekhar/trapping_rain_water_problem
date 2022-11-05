@@ -1,6 +1,6 @@
 # siddhant
 # Python3 implementation of the brute force approach
-# Time Complexity: O(N2)
+# Time Complexity: O(N^2)
 # Space Complexity: O(1)
   
 # Function to return the maximum
