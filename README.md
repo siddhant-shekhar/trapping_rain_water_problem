@@ -1,6 +1,6 @@
 # trapping_rain_water_problem
 
-This was problem statement for my DAA (Design and Analysis of Algorithms).
+This was problem statement for my DAA (Design and Analysis of Algorithms) assignment.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Problem statement-- 
 Given an integer array A[] consisting of N non-negative integers representing an elevation map, where the width of each bar is 1. The task is to compute the total volume
